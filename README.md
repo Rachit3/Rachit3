@@ -16,9 +16,10 @@
 
 ### 🧙‍♂️ Skills & Magic Potions 🧪
 
-```python
+```
 skills = ["Python 🐍", "SQL 🗃️", "Tableau 📊", "Power BI 💡", "MS Excel 📈",
           "Machine Learning 🤖", "Data Analytics 📊"]
+```
 
 
 ## 📞 Let's Connect & Conspire! 🔮
