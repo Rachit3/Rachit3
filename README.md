@@ -24,7 +24,7 @@ skills = ["Python 🐍", "SQL 🗃️", "Tableau 📊", "Power BI 💡", "MS Exc
 
 ## 📞 Let's Connect & Conspire! 🔮
 
-Shoot me an email or send a magical message via LinkedIn or Twitter! Whether it's for a mystical project, a data chat, or just to say "Hi," I'm always up for magical conversations! 🧙‍♂️🦉✉️
+Shoot me an email or send a magical message via LinkedIn ! Whether it's for a mystical project, a data chat, a Job offer or just to say "Hi," I'm always up for magical conversations! 🧙‍♂️🦉✉️
 
 📧 Email: rachitrachit333@gmail.com  
 🔮 LinkedIn: [Let's Connect!](https://www.linkedin.com/in/rachit-chaturvedi-8a442420b/)
