@@ -4,11 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-chaturvedi-8a442420b/)
 
 
-## I'm a Data Analyst Intern, Python Enthusiast, and Data Magician 📊✨
+## I'm a Data Analyst Intern, Python Enthusiast, and Data Magician trying to build ML models to add the magic 📊✨
 
 ---
 
-* 🔭 Currently exploring the realms of data as a **Data Analyst Intern** at Vitara Enterprises
+* 🔭 Explored the realms of data as a **Data Analyst Intern** at Vitara Enterprises
 * 🌱 Pursuing my Master's in Computer Applications (MCA) and embracing the wonders of data!
 * 📚 Always learning, and I've got a knack for Machine Learning and Data Analytics
 
