@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Rachit3&color=green)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-chaturvedi-8a442420b/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imrachitrachit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imrachitrachit)
+
 
 ## I'm a Data Analyst Intern, Python Enthusiast, and Data Magician 📊✨
 
